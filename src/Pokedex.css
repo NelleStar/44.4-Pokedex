@@ -1,0 +1,11 @@
+.Pokedex-header {
+    color: lightgray;
+}
+
+.Pokedex-cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 900px;
+    margin: 0 auto;
+}
